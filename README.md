@@ -22,3 +22,24 @@ Listagem e alteração de estudantes: deve ser possível listar todos os estudan
 
 ## 7. 
 Listagem e alteração de professores: deve ser possível listar todos os professores da escola. Ao selecionar um professor, deve ser possível alterar os seus dados. 
+
+# Implementação
+
+Foi seguido o padrão de software modularizado em Arquivos de Cabeçalho e arquivos de Código-Fonte, que isola as regras de negócios da lógica de apresentação, a interface com o usuário. Possibilitando a divisão do projeto em camadas muito bem definidas para suas classes.
+
+![image](https://github.com/mtsfreitas/academic-management/assets/21324690/4fe68749-0b2d-4d80-9c79-d98f5714a141)
+
+**Arquivos de Cabeçalho:** É responsável por interpretar as ações de entrada através do mouse e teclado realizadas pelo usuário. Enviando essas ações para o para a janela de visualização onde serão realizadas as operações necessárias.
+
+**Arquivos de Código-Fonte:** É o coração da execução, responsável por tudo que a aplicação vai fazer a partir dos comandos que controlam um ou mais elementos de dados, respondendo a perguntas sobre o sua condição e a instruções para mudá-las. Contém a classe principal com o método main para chamar a interface gráfica e alguns testes de inserções.
+
+# Decisões de projeto
+Foram utilizados estruturas de vetores (vector<>) que contém estudantes e turmas. O tratamento de erros e exceções foi feito por condições de if-else e do-while, tendo em vista um funcionamento robusto que permite executar até quando o usuário desejar.
+
+O desenvolvimento do software na linguagem C++, utilizando a orientação objetos, possui suas pastas devidamente organizadas, inclui também o tratamento de possíveis erros que um determinado usuário possa eventualmente cometer através de estruturas de comparação.
+
+## Software em funcionamento
+![image](https://github.com/mtsfreitas/academic-management/assets/21324690/61ab7ef3-ca8b-4539-9fc8-a56c14865524)
+
+![image](https://github.com/mtsfreitas/academic-management/assets/21324690/d05e02b7-01c7-4e8c-87f6-bf6e35cf6ce2)
+
