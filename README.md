@@ -41,5 +41,9 @@ O desenvolvimento do software na linguagem C++, utilizando a orientação objeto
 ## Software em funcionamento
 ![image](https://github.com/mtsfreitas/academic-management/assets/21324690/61ab7ef3-ca8b-4539-9fc8-a56c14865524)
 
+![image](https://github.com/mtsfreitas/academic-management/assets/21324690/d5f66cc1-e109-442e-a743-da7f2093b060)
+
+![image](https://github.com/mtsfreitas/academic-management/assets/21324690/f31a39ff-ace7-44f2-9a0a-dab51091a76e)
+
 ![image](https://github.com/mtsfreitas/academic-management/assets/21324690/d05e02b7-01c7-4e8c-87f6-bf6e35cf6ce2)
 
