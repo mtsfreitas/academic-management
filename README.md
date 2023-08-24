@@ -1,6 +1,6 @@
 # academic-management
 
-# O objetivo deste projeto é o desenvolvimento de um sistema de gestão acadêmica de uma escola. O sistema possui as seguintes funcionalidades:
+# O objetivo deste projeto é o desenvolvimento de um sistema de gestão acadêmica de uma escola. O sistema possui as seguintes funcionalidades: Cadastramento de estudantes, Cadastramento de professores, Cadastramento de turmas, Lançamento de notas, Geração de boletim, Listagem e alteração de estudantes e por fim Listagem e alteração de professores.
 
 ## 1. 
 Cadastramento de estudantes: deve ser possível inserir um estudante no sistema, com os dados de nome, nome do pai, nome da mãe, data de nascimento, endereço. Para cada aluno inserido, deve ser gerado um número de matrícula único para o estudante.
